@@ -39,7 +39,9 @@ Inquirer
 # Installation
 
 NPM install
+<br>
 NPM install jest
+<br>
 NPM install inquirer
 
 # Usage
