@@ -4,7 +4,7 @@
 
 # Badge:
 
-[![License](https://img.shields.io/badge/License%3A-MIT-green)]
+![License](https://img.shields.io/badge/License%3A-MIT-green)
 
 # Table of Contents
 
@@ -38,6 +38,10 @@ NPM install jest
 NPM install inquirer
 
 # Usage
+![YouTube link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)(https://www.youtube.com/watch?v=s-Hk3JHk7yw)
+![Google Drive](https://aleen42.github.io/badges/src/google_plus.svg)(https://drive.google.com/file/d/1XyL9lJJb6QCov0bpIDhJKOG-QmykjUTf/view)
+
+
 
 # License
 
@@ -47,7 +51,7 @@ This project is licensed under MIT
 
 I tested this project using Node.JS and ran my testing suite through Jest.npm
 
-# Questions
+# ![Questions ](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)      https://github.com/ilknur2603/
 ***
 ![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)        ilknurdayanc2603@gmail.com/
