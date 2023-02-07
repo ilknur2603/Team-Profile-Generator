@@ -1,6 +1,6 @@
 # Team-Profile-Generator
 
-/gitlab/license/:project+?gitlab_url=https%3A%2F%2Fjihulab.com
+![image](https://github.com/ilknur2603/Team-Profile-Generator/blob/main/gif/Screenshot%20(18).png)
 
 # Badge:
 
