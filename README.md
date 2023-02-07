@@ -25,10 +25,15 @@ This application is used to allow the team manager to create an easily read grou
 # Technologies Used
 
 HTML
+<br>
 CSS
+<br>
 JavaScript
+<br>
 Node.JS
+<br>
 Jest
+<br>
 Inquirer
 
 # Installation
@@ -41,8 +46,8 @@ NPM install inquirer
 ![YouTube link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)(https://www.youtube.com/watch?v=s-Hk3JHk7yw)
 <br>
 ![Google Drive](https://aleen42.github.io/badges/src/google_plus.svg)(https://drive.google.com/file/d/1XyL9lJJb6QCov0bpIDhJKOG-QmykjUTf/view)
-
-
+<br>
+!Gif](https://github.com/ilknur2603/Team-Profile-Generator/blob/main/gif/new1.gif)
 
 # License
 
