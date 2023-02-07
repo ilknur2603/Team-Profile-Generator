@@ -47,7 +47,7 @@ NPM install inquirer
 <br>
 ![Google Drive](https://aleen42.github.io/badges/src/google_plus.svg)(https://drive.google.com/file/d/1XyL9lJJb6QCov0bpIDhJKOG-QmykjUTf/view)
 <br>
-!Gif](https://github.com/ilknur2603/Team-Profile-Generator/blob/main/gif/new1.gif)
+![Gif](https://github.com/ilknur2603/Team-Profile-Generator/blob/main/gif/new1.gif)
 
 # License
 
